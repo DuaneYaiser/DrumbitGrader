@@ -29,7 +29,7 @@ Each of these functions currently only produce an output when piped through bash
 Wish list:
 
 A GUI for students to input Team number, first name, and last name, from which the 
-file name is then give for grader to read when students attach file when submitting.
+file name is then given for grader to read when students attach file when submitting.
 
 A more thorough filename checker (try/except, etc.) and adjuster to strip spaces, analyze 
 several separators (currently using only comma), capitalize first letter and first letter following
@@ -38,11 +38,11 @@ the separator. Accommodate apostrophes and hyphens within students' last names w
 A version of the autograder online for students to run the program on and get immediate feedback of the report to let
 them know what's meeting the rubric requirements and what is not.
 
-An option to auto email each student when they submit the file that sends the report of their grade point by point.
+An option to auto-email each student when they submit the file that sends the report of their grade point by point.
 
-A GUI for the teacher to submit files/folder to autograde. Options include CSV output version, auto emailer, 
+A GUI for the teacher to submit files/folder to autograde. Options include CSV output version, auto-emailer, 
 and eventually other options for setting template requirements, such as specific rhythms for specific tracks and other
-settings. Might even be able to customize using a 16 step row that changes code requirement.
+settings. Might even be able to customize using a 16 step row that changes rubric requirements in code.
 
 
 
